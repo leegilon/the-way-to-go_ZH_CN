@@ -9,7 +9,7 @@
 
 ## 翻译进度
 
-9.11 [在 Go 程序中使用外部库](eBook/09.11.md)
+12.6 [用切片读写文件](eBook/12.6.md)
 
 ## 支持本书
 
@@ -34,6 +34,8 @@
 	- [@chidouhu](https://github.com/chidouhu)
 	- [@spawnris](https://github.com/spawnris)
 	- [@domainname](https://github.com/domainname)
+	- [@leisore](https://github.com/leisore)
+	- [@dake](https://github.com/dake)
 
 ## 授权许可
 
